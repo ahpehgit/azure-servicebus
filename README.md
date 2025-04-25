@@ -22,7 +22,7 @@ azure-service-bus-app
 
 ## Prerequisites
 
-- Go 1.16 or later
+- Go 1.23.6 or later
 - An Azure account with an active subscription
 - Azure Service Bus namespace and queue created
 
